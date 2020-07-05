@@ -1,6 +1,6 @@
 # Website Test
 
-## Task 1 - (1 min of task)
+## Task 1 - (1 min of task) [2 points]
 ```
 Clone this repository in your local system
 ```
@@ -12,7 +12,7 @@ Create urls.py in home app and link in websitetest/urls.py
 Eg.  path('',  include("home.urls")),
 ```
 
-## Task 2 - (5 min of task)
+## Task 2 - (5 min of task) [5 points]
 ```
 in models.py
 from django.contrib import auth
@@ -24,7 +24,7 @@ Create model with name User with following information
   age - Integer Field with max_length=3, min_lengh=2 
 ```
 
-## Task 3 - (5 min of task)
+## Task 3 - (5 min of task) [5 points]
 ```
 Create url / and return page
 return simple json data
@@ -35,7 +35,7 @@ Eg. {
 help Note: return HttpResponse(..., content_type='application/json')
 ```
 
-## Task 4 - (15 min of task)
+## Task 4 - (15 min of task) [15 points + 5 points + 5 points]
 ```
 Create url /home/ and return page index.html as below content
 ```
@@ -63,13 +63,17 @@ Create url /home/ and return page index.html as below content
 Make home page to looks like an image home.jpg
 ```
 
-## Task 5 - (1 min of task)
+Note: 
+* Use bootstrap and minimize css as possible - No CSS will get you an extra points [5 points]
+* Responsiveness will give you more extra points [5 points]
+
+## Task 5 - (1 min of task) [3 points]
 ```
 Create PR on github and submit your project
 Notify us with PR link
 ```
 
-## Total Time : 27 min (But you have 3 days) :)
+## Total Time : 27 min [40 points] (But you have 3 days) :)
 
 # bESt Of LucK
 ### Based on your performance you will get an opportunity to do work with us
