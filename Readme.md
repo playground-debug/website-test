@@ -5,7 +5,7 @@
 Clone this repository in your local system
 ```
 ```
-Create app name "home" in projects
+Create app name "home" in this project
 ```
 ```
 Create urls.py in home app and link in websitetest/urls.py
