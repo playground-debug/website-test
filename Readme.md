@@ -35,7 +35,7 @@ Eg. {
 help Note: return HttpResponse(..., content_type='application/json')
 ```
 
-## Task 4 - (15 min of task) [15 points + 5 points + 5 points]
+## Task 4 - (18 min of task) [15 points + 5 points + 5 points]
 ```
 Create url /home/ and return page index.html as below content
 ```
@@ -73,7 +73,7 @@ Create PR on github and submit your project
 Notify us with PR link
 ```
 
-## Total Time : 27 min [40 points] (But you have 3 days) :)
+## Total Time : 30 min [40 points] (But you have 3 days) :)
 
 # bESt Of LucK
 ### Based on your performance you will get an opportunity to do work with us
