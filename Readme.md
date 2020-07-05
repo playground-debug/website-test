@@ -69,6 +69,8 @@ Create PR on github and submit your project
 Notify us with PR link
 ```
 
+## Total Time : 27 min (But you have 3 days) :)
+
 # bESt Of LucK
 ### Based on your performance you will get an opportunity to do work with us
 
